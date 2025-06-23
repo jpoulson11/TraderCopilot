@@ -1,0 +1,10 @@
+PySide6
+openai
+mss
+Pillow
+yfinance
+pandas
+win10toast
+reportlab
+qdarkstyle
+pyinstaller
